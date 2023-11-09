@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url('../../public/men-music-singer-musician-Person-guitarist-228180-wallhere.com.jpg');
+}
